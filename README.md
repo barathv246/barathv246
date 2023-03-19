@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barath V
-- 👀 I’m interested in programing and App development 
-- 🌱 I’m currently learning App development using Flutter
+- 👀 I’m interested in programing and MERN stack development 
+- 🌱 I’m currently learning MERN stack
 - 📫 You can reach me at barathv246@gmail.com
 
 <!---
